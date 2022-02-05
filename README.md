@@ -7,6 +7,7 @@ Repositório contendo os estudos realizados na plataforma DIO
 	- Ex2: Recebe respostas para perguntas e classifica a pessoa como Suspeita, Cúmplice, Assassina ou Inocente.
 - Exercicios-Sets
 	- Ex1: Programa que recebe as cores do arco-íris e faz algumas operações com o Set.
+	- Ex2: Programa que recebe linguagens de programação e faz algumas operações de ordenação.
 
 ## Links Úteis:
  - [Comandos de Markdown](https://www.markdownguide.org/basic-syntax/)
