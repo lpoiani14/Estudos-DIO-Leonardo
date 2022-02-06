@@ -11,7 +11,11 @@ Repositório contendo os estudos realizados na plataforma DIO
 - Exercicios-Maps
 	- Ex1: Programa que recebe estados e população e faz algumas operações com o Map.
 	- Desafio: Programa que joga um dado 100 vezes e calcula a porcentagem de vezes que caiu cada valor.
-
+- Desafios-em-Java-Sportheca
+	- Desafio1: Programa que recebe o número de vezes que o botão de volume de uma televisão foi apertado e retorna o volume da televisão.
+	- Desafio2: Programa que recebe o número de porções que devem ser preparadas e retorna a quantidade que deve ser comprada.
+	- Desafio3: Programa que recebe o número de alunos e de computadores (funcionando ou não) e retorna uma mensagem. 
+	
 ## Links Úteis:
  - [Comandos de Markdown](https://www.markdownguide.org/basic-syntax/)
  - [Atalhos IntelliJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
