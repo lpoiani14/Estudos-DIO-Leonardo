@@ -8,6 +8,8 @@ Repositório contendo os estudos realizados na plataforma DIO
 - Exercicios-Sets
 	- Ex1: Programa que recebe as cores do arco-íris e faz algumas operações com o Set.
 	- Ex2: Programa que recebe linguagens de programação e faz algumas operações de ordenação.
+- Exercicios-Maps
+	- Ex1: Programa que recebe estados e população e faz algumas operações com o Map.
 
 ## Links Úteis:
  - [Comandos de Markdown](https://www.markdownguide.org/basic-syntax/)
