@@ -10,6 +10,7 @@ Repositório contendo os estudos realizados na plataforma DIO
 	- Ex2: Programa que recebe linguagens de programação e faz algumas operações de ordenação.
 - Exercicios-Maps
 	- Ex1: Programa que recebe estados e população e faz algumas operações com o Map.
+	- Desafio: Programa que joga um dado 100 vezes e calcula a porcentagem de vezes que caiu cada valor.
 
 ## Links Úteis:
  - [Comandos de Markdown](https://www.markdownguide.org/basic-syntax/)
