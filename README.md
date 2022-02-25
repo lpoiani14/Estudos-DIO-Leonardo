@@ -15,6 +15,8 @@ Repositório contendo os estudos realizados na plataforma DIO
 	- Desafio1: Programa que recebe o número de vezes que o botão de volume de uma televisão foi apertado e retorna o volume da televisão.
 	- Desafio2: Programa que recebe o número de porções que devem ser preparadas e retorna a quantidade que deve ser comprada.
 	- Desafio3: Programa que recebe o número de alunos e de computadores (funcionando ou não) e retorna uma mensagem. 
+- Desafios-Sportheca
+	- 9 Desafios em linguagem Java.
 	
 ## Links Úteis:
  - [Comandos de Markdown](https://www.markdownguide.org/basic-syntax/)
