@@ -1,24 +1,24 @@
 # Estudos DIO Leonardo
-Repositório contendo os estudos realizados na plataforma DIO
+RepositÃ³rio contendo os estudos realizados na plataforma DIO
 ## Pastas:
  - Estudos-IDEs-Java
  - Exercicios-Listas
-	- Ex1: Programa que recebe temperaturas, calcula a média e aponta quais meses ficaram acima da média.
-	- Ex2: Recebe respostas para perguntas e classifica a pessoa como Suspeita, Cúmplice, Assassina ou Inocente.
+	- Ex1: Programa que recebe temperaturas, calcula a mÃ©dia e aponta quais meses ficaram acima da mÃ©dia.
+	- Ex2: Recebe respostas para perguntas e classifica a pessoa como Suspeita, CÃºmplice, Assassina ou Inocente.
 - Exercicios-Sets
-	- Ex1: Programa que recebe as cores do arco-íris e faz algumas operações com o Set.
-	- Ex2: Programa que recebe linguagens de programação e faz algumas operações de ordenação.
+	- Ex1: Programa que recebe as cores do arco-Ã­ris e faz algumas operaÃ§Ãµes com o Set.
+	- Ex2: Programa que recebe linguagens de programaÃ§Ã£o e faz algumas operaÃ§Ãµes de ordenaÃ§Ã£o.
 - Exercicios-Maps
-	- Ex1: Programa que recebe estados e população e faz algumas operações com o Map.
+	- Ex1: Programa que recebe estados e populaÃ§Ã£o e faz algumas operaÃ§Ãµes com o Map.
 	- Desafio: Programa que joga um dado 100 vezes e calcula a porcentagem de vezes que caiu cada valor.
 - Desafios-em-Java-Sportheca
-	- Desafio1: Programa que recebe o número de vezes que o botão de volume de uma televisão foi apertado e retorna o volume da televisão.
-	- Desafio2: Programa que recebe o número de porções que devem ser preparadas e retorna a quantidade que deve ser comprada.
-	- Desafio3: Programa que recebe o número de alunos e de computadores (funcionando ou não) e retorna uma mensagem. 
+	- Desafio1: Programa que recebe o nÃºmero de vezes que o botÃ£o de volume de uma televisÃ£o foi apertado e retorna o volume da televisÃ£o.
+	- Desafio2: Programa que recebe o nÃºmero de porÃ§Ãµes que devem ser preparadas e retorna a quantidade que deve ser comprada.
+	- Desafio3: Programa que recebe o nÃºmero de alunos e de computadores (funcionando ou nÃ£o) e retorna uma mensagem. 
 - Desafios-Sportheca
 	- 9 Desafios em linguagem Java.
 	
-## Links Úteis:
+## Links Ãšteis:
  - [Comandos de Markdown](https://www.markdownguide.org/basic-syntax/)
  - [Atalhos IntelliJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
- 
+
